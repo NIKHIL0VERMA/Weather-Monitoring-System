@@ -85,8 +85,8 @@ A real-time weather monitoring system that collects, processes, and visualizes w
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/weather-monitoring-system.git
-cd weather-monitoring-system
+git clone git@github.com:NIKHIL0VERMA/Weather-Monitoring-System.git
+cd Weather-Monitoring-System
 ```
 
 2. Create and activate a virtual environment (recommended):
@@ -215,7 +215,7 @@ CONSECUTIVE_ALERTS = 2
 
 ## License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgments
 

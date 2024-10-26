@@ -1,4 +1,4 @@
-API_KEY = "273abe59409fb34cfde4f062351403f6"
+API_KEY = "YOUR_API_KEY"
 CITIES = {
     "Delhi": {"lat": 28.6139, "lon": 77.2090},
     "Mumbai": {"lat": 19.0760, "lon": 72.8777},
@@ -7,6 +7,6 @@ CITIES = {
     "Kolkata": {"lat": 22.5726, "lon": 88.3639},
     "Hyderabad": {"lat": 17.3850, "lon": 78.4867}
 }
-UPDATE_INTERVAL = 300  # 5 minutes in seconds
+UPDATE_INTERVAL = 5*60  # 5 minutes in seconds
 TEMPERATURE_THRESHOLD = 35
 CONSECUTIVE_ALERTS = 2
